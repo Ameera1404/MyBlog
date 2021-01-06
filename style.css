@@ -3,7 +3,7 @@ body{
 	font-family: Arial;
 	margin:0;
 	padding:20px;
-	background-color: #f1f1f1;
+	background-color: #fa8072;
 }
 *{
 	box-sizing: border-box;
@@ -14,7 +14,7 @@ body{
 	clear: both;
 }
 header{
-	background-color: #ffffff;
+	background-color: #fffacd;
 	padding:30px;
 }
 header h1{
